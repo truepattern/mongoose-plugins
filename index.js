@@ -1,4 +1,9 @@
 /**
  * mongoose-plugins - main file
  */
-module.exports = require('./lib/modules/crud');
+
+var crud = require('./lib/modules/crud');
+var auth = require('./lib/modules/auth');
+
+exports.crudHelpers = crud.crudHelpers;
+exports.installUserSchema = auth.installUserSchema;
