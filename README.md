@@ -2,5 +2,5 @@
 Mongoose (mongodb) plugins
 
 ## Todo
- * add pagination support to index
-
+  * add pagination support to index
+  * add user model
