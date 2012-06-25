@@ -2,7 +2,7 @@
   "name": "mongoose-plugins",
   "description": "mongoose plugins:CRUD,auth helpers",
   "homepage": "https://github.com/truepattern/mongoose-plugins",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"          : ">= 0.6.1",
@@ -11,7 +11,11 @@
     "mongoose"         : ">= 2.6.2",
     "mongoose-types"   : "git://github.com/w33ble/mongoose-types.git#bson-patch"
   },
-  "devDependencies": [],
+  "devDependencies": {
+    "mocha"            : ">= 1.0.3",
+    "should"           : ">= 0.6.3",
+    "berry"            : ">= 0.0.4"
+  },
   "keywords": ["mongoose", "aonx", "plugins", "REST", "CRUD"],
   "repository": {"type":"git", "url": "git://github.com/truepattern/mongoose-plugins"},
   "main": "index",

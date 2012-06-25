@@ -1,3 +1,6 @@
+# release 0.2.0
+  * nested model support added for CRUD
+  * added unit test cases
 # release 0.1.1
   * added toJSON to methods
 # release 0.1.0
