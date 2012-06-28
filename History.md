@@ -1,4 +1,4 @@
-# release 0.3.0
+# release 0.3.1
   * Big change related to Relation 1:1, all referenced objects are now inline
   * auth schema changed to firstname, lastname as first level attributes
 # release 0.2.0

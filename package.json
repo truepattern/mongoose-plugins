@@ -2,7 +2,7 @@
   "name": "mongoose-plugins",
   "description": "mongoose plugins:CRUD,auth helpers",
   "homepage": "https://github.com/truepattern/mongoose-plugins",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "truepattern <admin@truepattern.com>",
   "dependencies": {
     "winston"          : ">= 0.6.1",
