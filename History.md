@@ -1,6 +1,7 @@
-# release 0.3.1
+# release 0.3.2
   * Big change related to Relation 1:1, all referenced objects are now inline
   * auth schema changed to firstname, lastname as first level attributes
+  * added options to aonx crud helpers (to inline the object or not)
 # release 0.2.0
   * nested model support added for CRUD
   * added unit test cases
