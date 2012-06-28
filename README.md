@@ -3,6 +3,7 @@ Mongoose (mongodb) plugins
 
 ## CRUD Helper
   * automatically installs CRUD helpers for a model
+    * can handle 1:1 relation (ObjectId) references inline
   * for an example please refer to todo-server/apps/todos/models.js
 
 ## Auth
